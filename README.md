@@ -23,7 +23,7 @@ O projeto demonstra o uso da CLI para automação da criação de recursos e int
 
 ## 🖼️ Evidências Visuais
 
-![image](https://github.com/user-attachments/assets/9820b7fb-6daa-4b9e-a499-f3644958ddba)
+![criando o container app](https://github.com/user-attachments/assets/63727a91-3854-47eb-8d64-f27bf66f65c9)
 
 ![image](https://github.com/user-attachments/assets/d54294d9-3c1d-4c87-978b-26c8f348d166)
 
